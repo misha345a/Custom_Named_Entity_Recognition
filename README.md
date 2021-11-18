@@ -10,5 +10,5 @@ After annotating and training on a mini dataset, the model is able to identify v
 
 This work can lead to automatically classifying and tagging contractor websites based on the services they provide.
 
-For further details, check out my Medium article here:
+For further details, check out my Medium article here: <br>
 https://levelup.gitconnected.com/auto-detect-anything-with-custom-named-entity-recognition-ner-c89d6562e8e9
